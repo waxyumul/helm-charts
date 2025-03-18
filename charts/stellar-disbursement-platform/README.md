@@ -1,4 +1,4 @@
-# Stellar Disbursement Platform Helm Chart
+mp# Stellar Disbursement Platform Helm Chart
 
 ## Introduction
 This chart bootstraps a Stellar Disbursement Platform (SDP) deployment on a [Kubernetes](http://kubernetes.io) cluster using the [Helm](https://helm.sh) package manager.
